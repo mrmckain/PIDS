@@ -1,1 +1,3 @@
-# PIDS
+PIDS--Phylogenetics Identification of Subgenomes
+
+==============
